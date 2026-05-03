@@ -1,3 +1,6 @@
 battery model : 
 
 CN6613-2S3P
+
+
+this is the first edir 1 ; 
