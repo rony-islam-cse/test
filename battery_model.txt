@@ -1,0 +1,3 @@
+battery model : 
+
+CN6613-2S3P
